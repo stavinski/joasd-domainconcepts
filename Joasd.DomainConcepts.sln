@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joasd.DomainConcepts.Financial", "Joasd.DomainConcepts.Financial\Joasd.DomainConcepts.Financial.csproj", "{0ABD2406-12A9-4983-92BA-4270394309AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joasd.DomainConcepts.Financial.Test", "Joasd.DomainConcepts.Financial.Test\Joasd.DomainConcepts.Financial.Test.csproj", "{B49EDDB4-3826-4F9D-9A82-F441F32A4735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ABD2406-12A9-4983-92BA-4270394309AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ABD2406-12A9-4983-92BA-4270394309AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ABD2406-12A9-4983-92BA-4270394309AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ABD2406-12A9-4983-92BA-4270394309AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B49EDDB4-3826-4F9D-9A82-F441F32A4735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B49EDDB4-3826-4F9D-9A82-F441F32A4735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B49EDDB4-3826-4F9D-9A82-F441F32A4735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B49EDDB4-3826-4F9D-9A82-F441F32A4735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
